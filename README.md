@@ -27,8 +27,7 @@ Permite administrar inquilinos, contratos, pagos y consultar el estado de cada p
 ## 📂 Estructura del proyecto (pendiente de completar)
 - `/src` → Código fuente
 - `/docs` → Documentación y diagramas
-- `/db` → Base de datos  
-*(La completaremos cuando avances en el desarrollo)*
+- `/db` → Base de datos 
 
 ---
 
