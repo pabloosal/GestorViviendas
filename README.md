@@ -5,29 +5,26 @@ Permite administrar inquilinos, contratos, pagos y consultar el estado de cada p
 
 ---
 
-## 🏠 Funcionalidades principales
+## 🏠 Funcionalidades principales (a desarrollar)
 - Gestión de viviendas (alta, modificación, baja)
 - Gestión de inquilinos
 - Registro y seguimiento de contratos
 - Control de pagos mensuales
 - Listados e informes simples
-- Base de datos local
 
 ---
 
-## 🛠 Tecnologías utilizadas
-- Lenguaje: **C#**
-- Framework: **.NET Windows Forms**
-- Base de datos: **SQLite / SQL Server Express**
-- IDE: **Visual Studio 2022**
+## 🛠 Tecnologías utilizadas (pendiente de completar)
+- Lenguaje: ****
+- Framework: ****
+- Base de datos: ****
+- IDE: ****
 - Control de versiones: **Git + GitHub**
 
 ---
 
 ## 📂 Estructura del proyecto (pendiente de completar)
-- `/src` → Código fuente
-- `/docs` → Documentación y diagramas
-- `/db` → Base de datos 
+
 
 ---
 
